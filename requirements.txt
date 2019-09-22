@@ -1,0 +1,6 @@
+torch==1.0.0
+allennlp==0.8.2
+tensorflow
+benepar
+networkx
+intervaltree

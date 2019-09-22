@@ -1,0 +1,6 @@
+.pytest_cache
+*.pyc
+/data
+/lib
+.DS_Store
+._.DS_Store
